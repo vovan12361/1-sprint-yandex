@@ -1,0 +1,18 @@
+.video {
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+
+.video::after {
+  position: absolute;
+  background-color: #f2f2f2;
+  width: 100vw;
+  height: 52px;
+  bottom: 0;
+  content: "";
+  z-index: -1;
+}
