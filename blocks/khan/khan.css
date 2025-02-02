@@ -1,0 +1,8 @@
+.khan {
+  display: flex;
+  margin: 0 auto;
+  background-color: #f2f2f2;
+  padding-top: 105px;
+  padding-bottom: 0;
+  justify-content: center;
+}
