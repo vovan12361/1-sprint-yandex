@@ -9,5 +9,6 @@
 }
 
 .feynman__link:hover {
-  text-decoration: underline;
+  opacity: 0.33;
+  transition: opacity 1s;
 }
