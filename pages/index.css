@@ -21,6 +21,7 @@
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/rotation/rotation.css);
 
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
